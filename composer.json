@@ -1,5 +1,6 @@
 {
-    "repositories": [		
+	"name": "virtua/yaml",
+	"repositories": [		
 		{
 			"type": "composer",
 			"url": "https://satis-public.virtua.ch"
@@ -7,9 +8,9 @@
 		{
 			"type": "composer",
 			"url": "https://satis-private.virtua.ch"
-		}
-	],
-    "require": {
-        "virtua/documentor": "1.0.2"
-    }
+		},
+		{
+			"packagist": false
+		}	
+	],    
 }
