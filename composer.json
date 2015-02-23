@@ -12,5 +12,8 @@
 		{
 			"packagist": false
 		}	
-	]    
+	],
+	"autoload": {
+		"psr-0": {"sfyaml": ""}
+	}
 }
