@@ -14,8 +14,6 @@
 		}	
 	],
 	"autoload": {
-		"psr-4": {
-            		"sfYaml\\":  "lib"
-        	}
+		"psr-0": {"sfYaml": "lib/"}
 	}
 }
