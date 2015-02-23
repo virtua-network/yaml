@@ -1,5 +1,5 @@
 {
-	"name": "virtua/yaml",
+	"name": "virtua/sfyaml",
 	"repositories": [		
 		{
 			"type": "composer",
